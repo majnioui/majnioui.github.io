@@ -1,10 +1,10 @@
 ---
-title: "The ultimate guide to start your personal blog for FREE"
+title: "The Ultimate Guide to Start Your Personal Blog For FREE"
 date: 2024-10-13T00:00:00+00:00
 author: Moe
 layout: post
 permalink: /the-ultimate-guide-to-start-blogging/
-categories: Genel
+categories: Guides
 tags: [blog, guide]
 ---
 Lorem markdownum feriam: vir, vulnere cum postquam ocius, ecce. Exsangui totiens
