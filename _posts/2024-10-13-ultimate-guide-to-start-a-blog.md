@@ -1,6 +1,6 @@
 ---
 title: "The ultimate guide to start your personal blog for FREE"
-date: 2021-02-09T00:00:00+00:00
+date: 2024-10-13T00:00:00+00:00
 author: Moe
 layout: post
 permalink: /the-ultimate-guide-to-start-blogging/
