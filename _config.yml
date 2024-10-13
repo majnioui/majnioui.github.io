@@ -1,7 +1,7 @@
 # Site settings
-site: Moz
+site: The Coolest Moe
 title: Moe - Personal blog
-keywords: ephesus, blog
+keywords: personal, blog, developer, it consultant
 description: >-
   I'm the coolest Moe - Blog
 lang: en-US
@@ -21,7 +21,7 @@ author:
 
 
 # URL settings
-url: "https://gr8cody.github.io" # Domain Name of host. [username].github.io for github pages
+url: "https://gr8cody.github.io"
 permalink: pretty
 
 markdown: kramdown
