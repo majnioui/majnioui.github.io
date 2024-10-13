@@ -1,16 +1,16 @@
 # Site settings
-site: The Coolest Moe
+site: Moe
 title: Moe - Personal blog
 keywords: personal, blog, developer, it consultant
 description: >-
-  I'm the coolest Moe - Blog
+    Moe - Blog
 lang: en-US
 timezone:  Europe/Paris
 discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Moe
+  name: The Coolest Moe
   bio: Full-Stack developer <br> IT Consultant @PowerM <br> Open Source /#linux
   picture: assets/images/profile.webp
   github: majnioui
