@@ -29,7 +29,7 @@ Run local server:
 
 ```bash
 $ git clone https://github.com/gr8cody/gr8cody.github.io.git
-$ cd cd gr8cody.github.io
+$ cd gr8cody.github.io
 $ bundle install
 $ bundle exec jekyll build
 $ bundle exec jekyll serve
