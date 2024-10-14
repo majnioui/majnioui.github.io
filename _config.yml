@@ -6,12 +6,13 @@ description: >-
     Moe - Blog
 lang: en-US
 timezone:  Africa/Casablanca
+repo: https://github.com/gr8cody/gr8cody.github.io
 cloudflare_analytics: 2d590c5401ba4a29b7bd3beb2b359c2b
 
 # Author settings
 author:
   name: The Coolest Moe
-  bio: Full-Stack developer <br> IT Consultant @PowerM <br> Open Source /#linux
+  bio: Full-Stack developer <br> IT Consultant.<br>
   picture: assets/images/profile.webp
   github: majnioui
   twitter: _marocain
