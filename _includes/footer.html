@@ -6,15 +6,9 @@
 		}
 	</script>
 
-	{% if site.google_analytics %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', '{{site.google_analytics}}');
-    </script>
+	{% if site.cloudflare_analytics %}
+	 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "{{site.cloudflare_analytics}}"}'>
+	 </script>
 	{% endif %}
 </body>
 </html>

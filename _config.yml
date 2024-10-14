@@ -6,6 +6,7 @@ description: >-
     Moe - Blog
 lang: en-US
 timezone:  Africa/Casablanca
+cloudflare_analytics: 2d590c5401ba4a29b7bd3beb2b359c2b
 
 # Author settings
 author:
