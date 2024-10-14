@@ -1,11 +1,11 @@
 # Site settings
-site: Moe
-title: Moe - Personal blog
+site: Moe Blog
+title: The coolest Moe
 keywords: personal, blog, developer, it consultant
 description: >-
     Moe - Blog
 lang: en-US
-timezone:  Europe/Paris
+timezone:  Africa/Casablanca
 
 # Author settings
 author:
@@ -31,12 +31,10 @@ kramdown:
 
 exclude:
   - .jekyll-cache
-  - .obsidian
   - Gemfile
   - Gemfile.lock
   - LICENSE.md
   - README.md
-  - CONTRIBUTING.md
 
 plugins:
   - jekyll-paginate
