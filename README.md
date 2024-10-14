@@ -19,7 +19,7 @@ Notice: This is an edited clone of Ephesus Jekyll Theme - check it here [Ephesus
 - [x] Sitemap
 - [x] Next & Previous Post
 - [x] Pagination
-- [x] Disqus
+- [x] Comments System
 - [x] Mathjax Support
 - [x] Google Analytics
 
