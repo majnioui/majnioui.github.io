@@ -5,7 +5,7 @@ date: 2024-11-07 15:31:00 -0500
 categories: [guide]
 tags: [hetzner, nextjs, coolify, self host]
 ---
-I’ve always wanted an easy and straightforward solution to host my Next.js websites independently, away from platforms like Netlify, Vercel, or Render. Recently, I saw some people on X (formerly Twitter) talking about Coolify—and it was exactly what I was looking for! 😄
+I've always had this vision hosting my Next.js sites on my own terms, far away from the clutches of Netlify, Vercel, or Render. But how? Then, as I was casually scrolling through X (aka Twitter’s alter ego), bam! I spot people raving about Coolify. It was like finding the cheat code in a game! So, what’s this Coolify magic all about?
 
 ## What is Coolify?
 
