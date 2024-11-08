@@ -150,5 +150,5 @@ For added security, set up a firewall on Hetzner:
 
 And there you have it, folks! We created a Hetzner server, set up Coolify, linked a custom domain, and configured firewall rules. Now you’re all set to self-host like a pro.
 
-Hope this guide helped you out! If you have any questions or just wanna chat about tech stuff, hit me up on [X (Twitter)](https://twitter.com/_Marocain){:target="_blank"}.
+Hope this guide helped you out! If you have any questions or just wanna chat about tech stuff, hit me up on **[X (Twitter): @_Marocain](https://twitter.com/_Marocain){:target="_blank"}**.
 
