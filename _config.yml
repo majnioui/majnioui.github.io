@@ -1,17 +1,17 @@
 # Site settings
 site: Moe's Blog
-title: The coolest Moe
-keywords: personal, blog, developer, it consultant
+title: Moe El Majnioui
+keywords: personal, blog, developer, it consultant, oss
 description: >-
     Moe - Blog
 lang: en-US
 timezone:  Africa/Casablanca
-repo: https://github.com/gr8cody/gr8cody.github.io
+repo: https://github.com/majnioui/majnioui.github.io
 
 # Author settings
 author:
-  name: The Coolest Moe
-  bio: Full-Stack developer <br> IT Consultant.<br>
+  name: Moe El Majnioui
+  bio: Full-Stack developer <br> IT Consultant.<br> OSS
   picture: assets/images/profile.webp
   github: majnioui
   twitter: _marocain
@@ -21,7 +21,7 @@ author:
 
 
 # URL settings
-url: "https://coolest.moe"
+url: "https://majnioui.me"
 permalink: pretty
 
 markdown: kramdown

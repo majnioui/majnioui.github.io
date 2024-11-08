@@ -2,7 +2,7 @@
 
 Notice: This is an edited clone of Ephesus Jekyll Theme - check it here [Ephesus](https://github.com/onepase/Ephesus).
 
-- **Demo:** https://coolest.moe/
+- **Demo:** https://majnioui.me/
 
 ### Features
 
