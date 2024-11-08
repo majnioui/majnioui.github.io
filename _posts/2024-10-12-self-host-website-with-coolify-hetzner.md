@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Self-Host Your Website with Coolify and Hetzner"
-date: 2024-11-08 15:31:00 -0500
+date: 2024-11-07 15:31:00 -0500
 categories: [guide]
 tags: [hetzner, nextjs, coolify, self host]
 ---
