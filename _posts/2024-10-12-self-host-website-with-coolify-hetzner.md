@@ -59,15 +59,19 @@ Hetzner will email you the IP, username, and password for your server.
 Using your terminal, SSH into the server with the following command:
 
 ```bash
-ssh root@<your-server-ip>
+
+ ssh root@<your-server-ip>
+
 ```
 
-Replace *<your-server-ip>* with your actual IP. It will ask for the password from Hetzner, and then you'll be asked to set a new root password. Pick a good one and write it down somewhere no sticky notes, please. 😅
+Replace `<your-server-ip>` with your actual IP. It will ask for the password from Hetzner, and then you'll be asked to set a new root password. Pick a good one and write it down somewhere no sticky notes, please. 😅
 
 Coolify will automatically start installing. You’ll get a link to the dashboard, which will look something like this:
 
 ```bash
-http://<your-server-ip>:8000
+
+ http://<your-server-ip>:8000
+
 ```
 ![Image](/assets/images/blog/console.png)
 
@@ -108,12 +112,12 @@ Head over to your domain provider’s dashboard and tweak the DNS settings:
 
 ![Image](/assets/images/blog/dnscoolify.png)
 
-- In Coolify, go to **Settings** and set the instance’s domain to *https://coolify.<your-domain>*. For example, if your domain is *FPLStats.live*, use *https://coolify.fplstats.live*.
+- In Coolify, go to **Settings** and set the instance’s domain to `https://coolify.<your-domain>` . For example, if your domain is FPLStats.live, use `https://coolify.fplstats.live`.
 - Hit **Save** and wait a few minutes for the DNS to propagate.
 
 ![Image](/assets/images/blog/customdomain.png)
 
-Now, you can access Coolify using your custom domain, hence *https://coolify.fplstats.live* instead of *http://<your-server-ip>:8000*. No more IPs to remember!
+Now, you can access Coolify using your custom domain, hence `https://coolify.fplstats.live` instead of `http://<your-server-ip>:8000`. No more IPs to remember!
 
 ## Step 6: Link Your App to the Domain
 
@@ -144,7 +148,7 @@ For added security, set up a firewall on Hetzner:
 
 ![Image](/assets/images/blog/firewallapply.png)
 
-3. Once the firewall is enabled, Coolify will only be accessible via your custom domain *https://coolify.<your-domain>* plus, HTTPS is all taken care of by Coolify. No need to stress over SSL certificates. 😊
+3. Once the firewall is enabled, Coolify will only be accessible via your custom domain `https://coolify.<your-domain>` plus, HTTPS is all taken care of by Coolify. No need to stress over SSL certificates. 😊
 
 ## The Grand Finale
 
