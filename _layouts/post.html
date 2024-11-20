@@ -20,6 +20,24 @@ layout: default
 	<h1>{{page.title}}</h1>
 	{{ content }}
 </div>
+
+<div class="support-section">
+	<div class="bmc-button-container">
+		<script type="text/javascript"
+			src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
+			data-name="bmc-button"
+			data-slug="majnioui"
+			data-color="#e3e3e3"
+			data-emoji="☕"
+			data-font="Cookie"
+			data-text="Buy me a coffee"
+			data-outline-color="#000000"
+			data-font-color="#000000"
+			data-coffee-color="#FFDD00">
+		</script>
+	</div>
+</div>
+
 <div class="tags-container">
 	{% for tag in page.tags %}
 		<a href="{{ site.url }}/tags/#{{tag | cgi_escape}}" class="post-tag">{{tag}}</a>{% unless forloop.last %}, {% endunless %}
